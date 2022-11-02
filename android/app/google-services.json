@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283005905290",
+    "project_id": "playground-fa32a",
+    "storage_bucket": "playground-fa32a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283005905290:android:5289aec1c244a6c4ac8073",
+        "android_client_info": {
+          "package_name": "com.example.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283005905290-9ehe2chdhnchff4ke4v49l9l5vmsscii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPyTtliFawFwTV0WIryBlIhlFe6Eo6NV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283005905290-9ehe2chdhnchff4ke4v49l9l5vmsscii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
